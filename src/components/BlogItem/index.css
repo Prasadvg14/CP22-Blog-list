@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.item {
+  width: 60vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.p {
+  color: #9aa5b1;
+}
